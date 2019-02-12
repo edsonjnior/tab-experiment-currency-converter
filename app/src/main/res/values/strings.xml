@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Conversor de moedas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_1">Converter de Dólar para Real</string>
+    <string name="tab_2">Converter de Libra Esterlina para Real</string>
+    <string name="tab_3">Converter de Euro para Real</string>
+    <string name="tab_label1">USD - BRL</string>
+    <string name="tab_label2">GBP - BRL</string>
+    <string name="tab_label3">EUR - BRL</string>
+    <string name="text_converter">Converter</string>
+    <string name="text_valor_real">Valor em real</string>
+    <string name="text_valor_dolar">Valor em dolar</string>
+    <string name="text_valor_libra">Valor em libras</string>
+    <string name="text_valor_euro">Valor em euros</string>
+    <string name="text_zero_decimal">0.00</string>
+
+</resources>
